@@ -1,0 +1,12 @@
+Weight: 60.0, Height: 1.65, BMI: 22.04, Category: Normal
+Weight: 62.0, Height: 152.0, BMI: 0.0, Category: Underweight
+Weight: 60.0, Height: 1.65, BMI: 22.04, Category: Normal
+Weight: 45.0, Height: 1.65, BMI: 16.53, Category: Underweight
+Weight: 75.0, Height: 1.65, BMI: 27.55, Category: Overweight
+Weight: 95.0, Height: 1.65, BMI: 34.89, Category: Obese
+Weight: 60.0, Height: 1.65, BMI: 22.04, Category: Normal
+Weight: 25.0, Height: 1.65, BMI: 9.18, Category: Underweight
+Weight: 60.0, Height: 1.65, BMI: 22.04, Category: Normal
+Weight: 35.0, Height: 1.65, BMI: 12.86, Category: Underweight
+Weight: 80.0, Height: 1.65, BMI: 29.38, Category: Overweight
+Weight: 90.0, Height: 1.65, BMI: 33.06, Category: Obese
